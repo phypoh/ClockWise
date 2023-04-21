@@ -1,0 +1,25 @@
+{
+  "name": "clockwise",
+  "version": "1.0.0",
+  "description": "A Blood on the Clocktower Discord bot used to organise roles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phypoh/ClockWise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phypoh/ClockWise/issues"
+  },
+  "homepage": "https://github.com/phypoh/ClockWise#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "request-promise-native": "^1.0.9"
+  }
+}
